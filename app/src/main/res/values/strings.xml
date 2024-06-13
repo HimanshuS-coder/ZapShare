@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zap Share</string>
+    <string name="servicedesc">Transfer Data from one nfc enabled device to another</string>
+    <string name="aiddescription">Application ID</string>
+</resources>
